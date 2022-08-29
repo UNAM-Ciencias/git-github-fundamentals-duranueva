@@ -8,5 +8,5 @@ Lo que de aún estoy confuso, es sobre cómo hacer justo un _pull request__, per
 
 ## Update
 
-Acabo de actualizar mi perfil. Puedes acceder, haciendo click en [@duranueva](https://github.com/duranueva/) 
+Acabo de actualizar mi perfil. Puedes acceder, haciendo click en [@duranueva](https://github.com/duranueva/)
 
