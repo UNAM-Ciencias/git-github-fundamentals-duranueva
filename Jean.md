@@ -6,3 +6,7 @@ Aprendi algunos terminos de los que no tenia idea cómo funcionan, ni para qué 
 
 Lo que de aún estoy confuso, es sobre cómo hacer justo un _pull request__, pero espero que con esta actividad, estas dudas se aclaren.
 
+## Update
+
+Acabo de actualizar mi perfil. Puedes acceder, haciendo click en [@duranueva](https://github.com/duranueva/)
+
